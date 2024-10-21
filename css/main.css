@@ -765,3 +765,10 @@ a {
 #about.main-sections .sub-section.about-us-container  .row.mt-sm-5 .about-us-card {
   padding: 5%;
 }
+
+img {
+  vertical-align: middle;
+  border-style: none;
+  max-height: 100% fit-content;
+  max-width: -moz-available;
+}
